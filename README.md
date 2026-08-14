@@ -130,10 +130,9 @@ Apache 2.0 license, and TIDE's own files are released under the same terms.
 
 ```bibtex
 @article{yu2026mismatch,
-  title   = {Mismatch Matters: On-Policy Distillation Beyond Token Agreement},
-  author  = {Yu, Zichao and Yu, Chengzhi and Xu, Shengze and Han, Yujin and
-             Jiang, Bingqing and Wang, Xu and Zou, Difan},
-  journal = {arXiv preprint arXiv:2608.09836},
-  year    = {2026}
+  title={Mismatch Matters: On-Policy Distillation Beyond Token Agreement},
+  author={Yu, Zichao and Yu, Chengzhi and Xu, Shengze and Han, Yujin and Jiang, Bingqing and Wang, Xu and Zou, Difan},
+  journal={arXiv preprint arXiv:2608.09836},
+  year={2026}
 }
 ```
