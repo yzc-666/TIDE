@@ -24,8 +24,8 @@ standard OPD and recent token-selection and reward-shaping baselines. The gap wi
 under strong teacher–student mismatch, where it lifts Avg@8 from 6.9% to 20.3% while
 cutting average response length by 3.6x.
 
-Paper: [arXiv:2608.09836](https://arxiv.org/abs/2608.09836) ·
-Repository: https://github.com/yzc-666/TIDE
+This repository accompanies a paper currently under double-blind review. Author and
+venue information is withheld until the review period ends.
 
 ## Repository layout
 
@@ -125,14 +125,3 @@ loads a verifier model from `EVAL_VERIFIER_PATH`.
 
 Built on [verl](https://github.com/volcengine/verl). The bundled fork keeps upstream's
 Apache 2.0 license, and TIDE's own files are released under the same terms.
-
-## Citation
-
-```bibtex
-@article{yu2026mismatch,
-  title={Mismatch Matters: On-Policy Distillation Beyond Token Agreement},
-  author={Yu, Zichao and Yu, Chengzhi and Xu, Shengze and Han, Yujin and Jiang, Bingqing and Wang, Xu and Zou, Difan},
-  journal={arXiv preprint arXiv:2608.09836},
-  year={2026}
-}
-```
